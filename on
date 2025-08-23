@@ -1,0 +1,5 @@
+[33m3546903[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m Fix missing dependencies - add cors, openai, and @google/generative-ai packages and set type to module
+[33meba1113[m Add deployment configuration files - package.json with build script and vercel.json for proper deployment
+[33m6394868[m Add comprehensive CSS rules to force section visibility control with !important declarations
+[33m0a9a4a5[m Fix features section visibility - remove conflicting initialization and enhance showSection function
+[33m59ecea5[m Fix features section visibility issue - add debugging and proper section hiding logic

@@ -1,0 +1,1 @@
+{"provider":"gemini","model":"gemini-1.5-flash","messages":[{"role":"system","content":"You are a helpful assistant."},{"role":"user","content":"Say hi in one short sentence."}],"max_tokens":64,"temperature":0.2}
