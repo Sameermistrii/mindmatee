@@ -32,9 +32,32 @@ In India, millions of students—especially from small towns and villages—lack
 ---
 
 ## 🛠 Tech
-- **Frontend/Backend:** Streamlit (Python)
-- **Data:** Simple in-code maps for interests → roles → skills → resources (extensible)
-- **AI:** Rule-based personalization in prototype (LLM-ready hooks)
+Frontend:
 
+HTML, CSS, JavaScript (lightweight, responsive UI)
+
+Backend:
+
+Node.js with Express.js (API endpoints for chat + wellness)
+
+AI Integration:
+
+Google Gemini 1.5 Flash (prompt-tuned for career + wellness guidance)
+
+Hosting & Deployment:
+
+Render (web service + custom domain mindmate.org.in)
+
+Version Control & Collaboration:
+
+GitHub (repo + README + deployment scripts)
+
+Future Extensions:
+
+MongoDB (user data & progress tracking)
+
+React (scalable UI)
+
+WhatsApp/SMS API (vernacular helpline integration)
 ---
 
